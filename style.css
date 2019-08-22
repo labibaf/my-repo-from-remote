@@ -12,6 +12,7 @@ body{
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
+    margin: 80px auto;
 }
 
 #profile-image{
